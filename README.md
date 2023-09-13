@@ -1,4 +1,4 @@
 # darkmode
-Pagina simples com darkmode 
+Simple page with dark mode
 
-Projeto de botão "darkmode" com html, css e javascipt vanilla.
+Project of a page with a button to switch to dark mode
